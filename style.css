@@ -1,0 +1,16 @@
+.outer{
+    display: flex;
+    margin: auto;
+    flex-direction:column;
+    font-size: medium;
+    font-weight: 100;
+    text-align: left;
+    align-items: center;
+    border-bottom: 2px solid black;
+}
+.inside{
+    width: 370px;
+}
+p{
+    color: rgba(0,0,0,0.5); 
+}
